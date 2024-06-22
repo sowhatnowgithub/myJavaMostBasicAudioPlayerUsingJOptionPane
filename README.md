@@ -41,6 +41,12 @@ ex: song_with spacs.mp3 will be converted to song_withspacs.mp3
 
 ## Instructions
 ### if the instructions are not clear copy the following and paste it in chat gpt , it should ease the process
+```
+First download the AudioPlayer1.0.zip file , from the repositry
+then extract the file , navigate to the  folder AudioPlayer1.0
+All the below operations should be performed in the terminal , and navigate into the AudioPlayer1.0 folder ,
+cd /path/to/the/AudioPlayer.1.0
+```
 #### the below mentioned has to be done in the terminal for the folder to work
 
 navigate to the main folder , containing these files , in the terminal
