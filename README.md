@@ -1,3 +1,40 @@
+# setUp
+
+### the device specifications
+Os - macOS (silicon chip all models)
+java package should be latest 
+install JDK latest
+command line :
+```
+	brew install jdk
+```
+python3 should be installed
+### the music folder path
+the Path to music folder , should be in the following format
+```
+~/Desktop/Music/
+```
+## procedure
+In the Desktop , create a folder Music , 
+in the Music folder , the music file should have extensiton mp3,or wav
+
+
+### the file will be converted to wav for java defualt setting
+	we use ffmpeg software for the conversion
+	refer convert.sh file to see the code
+
+
+## the files execition is done by a bash script
+	init.sh 
+## we use java for the GUI experience and audioplayer
+	refer Main.java
+	
+## the song files are having spaces will be renamed
+ex: song_with spacs.mp3 will be converted to song_withspacs.mp3
+	this is done to prevent an error , which i faced during initial stages of development
+	
+# please refer manualPage file, further assistance
+
 ## Instructions
 ### if the instructions are not clear copy the following and paste it in chat gpt , it should ease the process
 #### the below mentioned has to be done in the terminal for the folder to work
