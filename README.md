@@ -15,9 +15,13 @@ the Path to music folder , should be in the following format
 ~/Desktop/Music/
 ```
 ## procedure
-In the Desktop , create a folder Music , 
-in the Music folder , the music file should have extensiton mp3,or wav
-
+Procedure
+```
+Create the Music Folder:
+Navigate to the Desktop.
+Create a folder named Music.
+The music files should be either in mp3 or wav
+```
 
 ### the file will be converted to wav for java defualt setting
 	we use ffmpeg software for the conversion
