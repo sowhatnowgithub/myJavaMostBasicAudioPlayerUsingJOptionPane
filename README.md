@@ -21,8 +21,21 @@ Procedure
 First install the AudioPlayer.1.0.zip file onto the terminal and follow the procedure
 
 ```
-git clone https://github.com/sowhatnowgithub/myJavaMostBasicAudioPlayerUsingJOptionPane/blob/AudioPlayer1.0/AudioPlayer.1.0.zip
+git clone https://github.com/sowhatnowgithub/myJavaMostBasicAudioPlayerUsingJOptionPane.git/
+cd myJavaMostBasicAudioPlayerUsingJOptionPane
 ```
+Then unzip the AudioPlayer.1.0.zip file
+``` 
+unzip AudioPlayer.1.0.zip
+cd AudioPlayer.1.0
+```
+Then do the following 
+```
+mv AudioPlayer.1.0 ../
+mv README.md ../
+rm -r myJavaMostBasicAudioPlayerUsingJOptionPane
+```
+This will move the folder a bit back and remove all the unnessary file
 ```
 Create the Music Folder:
 Navigate to the Desktop.
