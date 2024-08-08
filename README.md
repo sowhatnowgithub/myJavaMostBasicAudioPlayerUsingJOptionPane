@@ -27,13 +27,13 @@ cd myJavaMostBasicAudioPlayerUsingJOptionPane
 Then unzip the AudioPlayer.1.0.zip file
 ``` 
 unzip AudioPlayer.1.0.zip
-cd AudioPlayer.1.0
 ```
 Then do the following 
 ```
 mv AudioPlayer.1.0 ../
 mv README.md ../AudioPlayer.1.0
 rm -r myJavaMostBasicAudioPlayerUsingJOptionPane
+cd AudioPlayer.1.0
 ```
 This will move the folder a bit back and remove all the unnessary file
 ```
