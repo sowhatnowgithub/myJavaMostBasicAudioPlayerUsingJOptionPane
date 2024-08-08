@@ -32,7 +32,7 @@ cd AudioPlayer.1.0
 Then do the following 
 ```
 mv AudioPlayer.1.0 ../
-mv README.md ../
+mv README.md ../AudioPlayer.1.0
 rm -r myJavaMostBasicAudioPlayerUsingJOptionPane
 ```
 This will move the folder a bit back and remove all the unnessary file
