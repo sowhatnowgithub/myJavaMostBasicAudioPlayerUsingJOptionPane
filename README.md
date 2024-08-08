@@ -15,7 +15,10 @@ the Path to music folder , should be in the following format
 ~/Desktop/Music/
 ```
 ## procedure
+
 Procedure
+
+First install the AudioPlayer.1.0.zip file onto the terminal and follow the procedure
 ```
 Create the Music Folder:
 Navigate to the Desktop.
