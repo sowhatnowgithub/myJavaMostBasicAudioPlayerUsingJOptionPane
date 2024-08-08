@@ -19,6 +19,10 @@ the Path to music folder , should be in the following format
 Procedure
 
 First install the AudioPlayer.1.0.zip file onto the terminal and follow the procedure
+
+```
+git clone https://github.com/sowhatnowgithub/myJavaMostBasicAudioPlayerUsingJOptionPane/blob/AudioPlayer1.0/AudioPlayer.1.0.zip
+```
 ```
 Create the Music Folder:
 Navigate to the Desktop.
